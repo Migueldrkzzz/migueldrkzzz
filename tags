@@ -1,0 +1,35 @@
+HTML:
+p- paragrafo
+h1- titulo
+img- adicionar imagem
+abbr- abreviações
+code- código fonte
+ol type- listas numeradas
+ul type- listas com demarcadores
+a- criar link
+target-blank- abrir link numa nova guia
+br- quebra de linha
+q- aspas
+strong- negrito
+em- italico
+mark- texto marcado
+del- texto deletado
+ins- texto inserido
+sup- texto sobrescrito
+sub- texto subscrito
+main- cria um menu
+video- adicionar um video
+audio- adicionar um som ao sites
+link css- usar o css externo
+
+CSS:
+@chaset "UTF-8";
+background-color- cor de fundo
+background-color: liner-gradient- degrade
+font-family- tipo da fonte
+fonte-size- tamanho da fonte
+text-aling: justify- alinhar texto
+border-radius- arredondar as bordas
+box-shadow- sombra
+width- tamanho
+
