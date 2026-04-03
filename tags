@@ -32,4 +32,6 @@ text-aling: justify- alinhar texto
 border-radius- arredondar as bordas
 box-shadow- sombra
 width- tamanho
-
+font-weight- peso da fonte
+font-style- estilo da fonte
+text-decoration: underline- sublinhado
