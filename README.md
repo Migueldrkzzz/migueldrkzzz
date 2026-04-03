@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="left">Eae? 👋 </h1>
 
-<!--
-**Migueldrkzzz/migueldrkzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Miguel e eu sou um desemvolvedor, front-end.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 Atualmente estou aprendendo ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">Eu programo com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.M3dNJDyYN6FxO40-BsxjbgHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="css logo"  />
+  <img width="12" />
+</div>
+
+###
