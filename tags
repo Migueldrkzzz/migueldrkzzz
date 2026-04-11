@@ -21,6 +21,15 @@ main- cria um menu
 video- adicionar um video
 audio- adicionar um som ao sites
 link css- usar o css externo
+box-shadow- sombra de caixa
+tags semanticas:
+header- cabeçalho
+main- conteudo principal do site
+footer- rodapé
+nav- menu
+section- sessão
+article- artigo
+aside- conteudo relativo ao artigo
 
 CSS:
 @chaset "UTF-8";
@@ -35,3 +44,6 @@ width- tamanho
 font-weight- peso da fonte
 font-style- estilo da fonte
 text-decoration: underline- sublinhado
+padding 
+margin
+border
